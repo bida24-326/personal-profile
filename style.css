@@ -1,0 +1,36 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #800080; /* Purple background */
+    color: black; /* Black text color */
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #6a0dad; /* Darker purple */
+    margin-bottom: 20px;
+    border-bottom: 2px solid #fff;
+}
+
+.navbar-brand {
+    font-size: 1.6rem;
+    color: white;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.2rem;
+    color: white;
+    padding:
